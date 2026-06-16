@@ -1,16 +1,24 @@
-## Hi there 👋
+# Arventis Labs
 
-<!--
-**Arventis-Labs/Arventis-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced Smart Contract Engineering & Web3 Infrastructure. We design, optimize, and architect production-grade decentralized protocols with an uncompromising focus on security and gas efficiency.
 
-Here are some ideas to get you started:
+We don't sell legacy years or corporate buzzwords; we prove our capabilities through rigorous testing, strict mathematical correctness, and clean execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Arsenal & Focus
+* Languages: Solidity, Yul (EVM Assembly), TypeScript
+* Frameworks & Tooling: Foundry (Advanced Invariant & Fuzz Testing), Hardhat, Slither
+* Architecture: DeFi Primitives, Custom AMMs, Layer-2 Implementations, Advanced Token Standards (ERC-20, ERC-721A, ERC-1155)
+* Engineering Focus: Extreme Gas Optimization, Upgradeability Patterns (UUPS/Proxy), MEV-Resistance, Access Control Integrity
+
+### 🛡️ Our Engineering Philosophy
+> "Code is law, but secure code is a discipline."
+We operate under a zero-trust model. Every smart contract we architect is stress-tested under extreme, adversarial conditions using automated fuzzing and invariant suites to eliminate vulnerabilities before deployment.
+
+### 👥 The Engineering Duo
+* Hesam Qorbani — *Core Smart Contract Architect*
+* Ali Elahi — *Security & Infrastructure Engineer*
+
+---
+*Looking for rigorous engineering rather than legacy vanity? Explore our repositories to see our code in action.*
