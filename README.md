@@ -22,3 +22,8 @@ We operate under a zero-trust model. Every smart contract we architect is stress
 
 ---
 *Looking for rigorous engineering rather than legacy vanity? Explore our repositories to see our code in action.*
+
+### 📬 Connect With Us
+* Email: info@arventis.labs
+* X (Twitter): [https://x.com/ArventisLabs](https://x.com/ArventisLabs)
+* Telegram: [https://t.me/ARVENTISLABS](https://t.me/ARVENTISLABS)
